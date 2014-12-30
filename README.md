@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/elenagarrone/fizzbuzz-JS/badges/gpa.svg)](https://codeclimate.com/github/elenagarrone/fizzbuzz-JS)
+
 FizzBuzz in JavaScript
 ======================
 
